@@ -5,10 +5,10 @@ a img {
 .header {
     margin: 0 0 30px 0;
 
-    background: #E5ECFB;
-    background: -webkit-gradient(linear, left top, left bottom, from(#E8EEFC), to(#D7DEEA));
-    background: -moz-linear-gradient(top,  #E8EEFC,  #D7DEEA);
-    background: linear-gradient(top,  #E8EEFC,  #D7DEEA);
+    background: #F8BFAC;
+    background: -webkit-gradient(linear, left top, left bottom, from(#FBD4C5), to(#F7A58F));
+    background: -moz-linear-gradient(top,  #FBD4C5,  #F7A58F);
+    background: linear-gradient(top,  #FBD4C5,  #F7A58F);
     filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#E8EEFC', endColorstr='#D7DEEA');
 
     border-bottom: 1px solid #AAA;
@@ -152,7 +152,7 @@ div.wrapper > div > span {
 }
 fieldset {
     float: left;
-    background-color: #F1F4F9;
+    background-color: #FAE4D9;
     border: 1px solid #AAAAAA;
 }
 legend {
